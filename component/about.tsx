@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <div className="relative min-h-screen flex items-center justify-center text-center">
+    <div className="relative  min-h-screen flex items-center justify-center text-center">
       <div className="mx-auto max-w-7xl flex gap-20">
         <p className="text-3xl"> I am a passionate Web Developer who loves building clean, responsive, and user-friendly websites. I believe in writing well-structured code and creating designs that not only look good but also work smoothly across all devices.</p>
         <Image
